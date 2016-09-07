@@ -16,6 +16,8 @@
 !/includes
 !/inc
 !/languages
-!/themplates
+!/templates
 !/vendor
 !/views
+
+.DS_Store
